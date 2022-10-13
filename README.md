@@ -41,11 +41,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
@@ -55,9 +50,3 @@
 </div>  
   
 
-<br/>  
-
-
-<br />
-
-----
