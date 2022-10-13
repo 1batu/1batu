@@ -9,7 +9,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect
 <div align="center">
 <a href="https://github.com/1batu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -35,7 +35,7 @@
 <br/>  
 
 
-## Github Stats  
+## Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=1batu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
