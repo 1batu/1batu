@@ -1,14 +1,3 @@
-<div align="center">
-![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-</div>  
-  
-
-<br/>  
-
-
-<br/>  
-
-
 ## Connect
 <div align="center">
 <a href="https://github.com/1batu" target="_blank">
