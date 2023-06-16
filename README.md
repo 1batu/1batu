@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" align="center" style="width: 100%" />
+<img src="#" align="center" style="width: 100%" />
 </div>  
   
 
