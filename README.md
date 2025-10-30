@@ -9,7 +9,7 @@ Currently crafting things with **Laravel**, **Livewire**, and a dash of **Tailwi
 
 ## 💡 What I Do
 
-- ⚙️ Craft backend systems with **Laravel 12** and **Volt Livewire**
+- ⚙️ Craft backend systems with **Laravel** and **Volt - Livewire**
 - 🎨 Build interfaces with **Tailwind CSS**, **Alpine.js**, and **GSAP**
 - 🧠 Experiment with **AI integrations**, **OpenAI Assistants**, and **custom Chatbots**
 - 🧩 Design 3D & motion-driven experiences using **Three.js**, **WebGI**, and **Lenis**
